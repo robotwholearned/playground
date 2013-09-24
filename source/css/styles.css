@@ -1,0 +1,9 @@
+#colorbox{
+	/* height: 100px; */ 
+	width: 0; 
+	border: 30px solid #999; 
+	/*border-top-color: #c66; */
+	border-bottom-color: #6c6; 
+	border-left-color: #66C; 
+	border-right-color: #CC6; 
+}
